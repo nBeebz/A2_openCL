@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\4th year\a2_opencl\opencl_vs\opencl_vs\main.cpp(60): warning C4018: '<': signed/unsigned mismatch
+d:\4th year\a2_opencl\opencl_vs\opencl_vs\main.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\4th year\a2_opencl\opencl_vs\opencl_vs\main.cpp(64): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\4th year\a2_opencl\opencl_vs\opencl_vs\main.cpp(65): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+d:\4th year\a2_opencl\opencl_vs\opencl_vs\main.cpp(66): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  OpenCL_VS.vcxproj -> D:\4th Year\A2_openCL\OpenCL_VS\Debug\OpenCL_VS.exe
+  OpenCL_VS.vcxproj -> D:\4th Year\A2_openCL\OpenCL_VS\Debug\OpenCL_VS.pdb (Partial PDB)
